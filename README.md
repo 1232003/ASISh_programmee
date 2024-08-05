@@ -1,1 +1,1 @@
-THIS PROJECT IS ABOUT CREATING A SIMPLE WEB STRUCTURE ON HTML EVOLUTION AND HISTORY USING HTML.
+This Property Price Prediction Uses Machine Learning to predict the prices of 2,3 bhk Property in Chennai of around 170 unique locations, this involves Data Preprocessing, Feature Engineering, Outlier detection, and Data Modelling which uses Random forest Method , testing and training and validate using Cross Validation to finally predict the prices
